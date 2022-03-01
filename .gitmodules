@@ -2,3 +2,7 @@
 	path = sm-demo
 	url = https://github.com/Sourabh-Kr/sm-demo.git
 	branch = master
+[submodule "sm-mod-2"]
+	path = sm-mod-2
+	url = https://github.com/Sourabh-Kr/s-mod-2.git
+	branch = master
