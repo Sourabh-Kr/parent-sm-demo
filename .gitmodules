@@ -1,0 +1,4 @@
+[submodule "sm-demo"]
+	path = sm-demo
+	url = https://github.com/Sourabh-Kr/sm-demo.git
+	branch = master
